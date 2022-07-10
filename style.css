@@ -85,6 +85,16 @@ iframe{
     width: 50%;
     height: 400px;
 }
+@media only screen and (max-width: 360px){
+    .cards{
+        display:inline;
+    }
+    .card{width: 100%;
+    }
+    iframe{
+        width: 100%;
+    }
+}
 .main{
     background-image: url(./media/IMG_20220513_172249_899.jpg);
     background-attachment: fixed;
