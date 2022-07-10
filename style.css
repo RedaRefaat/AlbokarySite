@@ -58,7 +58,7 @@ ul li a:hover{
     }
     ul{
         padding: 2px;
-        margin-right: -55px;
+        margin-right: -62px;
         font-size: 16px; 
     }
 }
@@ -77,7 +77,7 @@ ul li a:hover{
     border-radius: 10px;
     font-family: system-ui;
     margin: 5px;
-    height: 86px;
+    height: 90px;
     text-align: center;
 }
 iframe{
